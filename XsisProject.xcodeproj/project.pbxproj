@@ -21,6 +21,7 @@
 		BE2DC86F2A96DB86001F91AE /* movieListModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = BE2DC86E2A96DB86001F91AE /* movieListModel.swift */; };
 		BE2DC8712A96F4C8001F91AE /* movieListDetailModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = BE2DC8702A96F4C8001F91AE /* movieListDetailModel.swift */; };
 		BE2DC8732A96FD3C001F91AE /* homeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BE2DC8722A96FD3C001F91AE /* homeViewController.swift */; };
+		BEF3433D2AC6889D004AB9A4 /* updatefile.swift in Sources */ = {isa = PBXBuildFile; fileRef = BEF3433C2AC6889D004AB9A4 /* updatefile.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -40,6 +41,7 @@
 		BE2DC86E2A96DB86001F91AE /* movieListModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = movieListModel.swift; sourceTree = "<group>"; };
 		BE2DC8702A96F4C8001F91AE /* movieListDetailModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = movieListDetailModel.swift; sourceTree = "<group>"; };
 		BE2DC8722A96FD3C001F91AE /* homeViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = homeViewController.swift; sourceTree = "<group>"; };
+		BEF3433C2AC6889D004AB9A4 /* updatefile.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = updatefile.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -87,6 +89,7 @@
 				BE2DC86E2A96DB86001F91AE /* movieListModel.swift */,
 				BE2DC8702A96F4C8001F91AE /* movieListDetailModel.swift */,
 				BE2DC8722A96FD3C001F91AE /* homeViewController.swift */,
+				BEF3433C2AC6889D004AB9A4 /* updatefile.swift */,
 			);
 			path = XsisProject;
 			sourceTree = "<group>";
@@ -168,6 +171,7 @@
 				BE2DC8552A964313001F91AE /* ViewController.swift in Sources */,
 				BE2DC8732A96FD3C001F91AE /* homeViewController.swift in Sources */,
 				BE2DC8672A964AF6001F91AE /* MovieModel.swift in Sources */,
+				BEF3433D2AC6889D004AB9A4 /* updatefile.swift in Sources */,
 				BE2DC8512A964313001F91AE /* AppDelegate.swift in Sources */,
 				BE2DC8692A96C2A7001F91AE /* DetailMovieViewController.swift in Sources */,
 				BE2DC86B2A96D1A9001F91AE /* DetailMovieModel.swift in Sources */,
